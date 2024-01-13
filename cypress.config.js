@@ -6,8 +6,8 @@ const customConfig = {
   },
 
   env: {
-    EMAIL: "karolinaszymaska@noroff.no",
-    PASSWORD: "password1234",
+    EMAIL: "polarbear@noroff.no",
+    PASSWORD: "password12345",
     FAILEDEMAIL: "user@gmail.com",
     FAILEDPASSWORD: "password",
   },

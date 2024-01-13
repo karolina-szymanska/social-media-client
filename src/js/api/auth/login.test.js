@@ -13,7 +13,7 @@ describe("login function", () => {
       }),
     );
 
-    await login("karolinaszymaska@noroff.no", "password1234");
+    await login("polarbear@noroff.no", "password12345");
 
     expect(save).toHaveBeenCalledWith("token", "mockToken");
   });
